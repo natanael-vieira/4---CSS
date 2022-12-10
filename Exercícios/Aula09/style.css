@@ -1,0 +1,21 @@
+div {
+    width: 400px;
+    height: 150px;
+    background-color: blueviolet;
+    border: 1px solid red;
+    padding: 20px;
+}
+
+#bloco1 {
+    margin: 30px;
+    padding-left: 150px;
+}
+
+#bloco2 {
+    margin-left: 30px;
+    padding: 50px 5px 150px 30px;
+}
+
+.fundo {
+    background-color: yellow;
+}

@@ -1,0 +1,18 @@
+#page {
+    background-color: green;
+}
+
+#page * {
+    border: 15px solid blue;
+    background-color: yellow;
+    padding: 30px;
+    margin: 30px;
+}
+
+#interno {
+    background-color: green;
+}
+
+#interno * {
+    border: 1px solid blue;
+}

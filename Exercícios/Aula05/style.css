@@ -1,0 +1,16 @@
+h1 {
+    border: 5px dotted yellowgreen;
+}
+
+h1 * {
+    border: inherit; /* inherit serve para herdar as estilizações do pai, no caso o span e o mark heradaram a borda, mas pode ser qualquer estilização, inclusive o mark.*/
+}
+
+p {
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+span {
+    background-color: red;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.title {
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.section {
+    font-size: 50px;
+}
+
+*[title] {
+    color: crimson;
+}
+
+h2:hover {
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+*[title="title"] {
+    background-color: gold;
+}
+
+a:hover {
+    background-color: whitesmoke;
+    color: blueviolet;
+}
+
+a {
+    background-color: blueviolet;
+    color: whitesmoke;
+}

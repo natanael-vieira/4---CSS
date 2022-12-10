@@ -1,0 +1,26 @@
+p {
+    background-color: blueviolet;
+}
+
+.destaque::first-letter {
+    font-size: 30px;
+    background-color: pink;
+}
+
+div::first-line {
+    color: red;
+    background-color: black;
+}
+
+ul li {
+    color: greenyellow;
+    background-color: black;
+}
+::marker {
+    color: orangered;
+}
+
+::selection {
+    background: black;
+    color: white;
+}
